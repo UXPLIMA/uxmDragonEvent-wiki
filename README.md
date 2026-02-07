@@ -8,4 +8,4 @@ You can find language strings inside config.yml, copy the config file and transl
 
 ## Reach The Wiki
 
-Click [here](https://github.com/UXPLIMA/uxmDragonEvent-wiki) to reach the wiki.
+Click [here](https://github.com/UXPLIMA/uxmDragonEvent-wiki/wiki) to reach the wiki.
